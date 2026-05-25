@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year CS student at **Mama Ngina University**
+- 🎓 CS Graduate, **Mama Ngina University** (Class of 2025)
 - 📊 Data Science & AI intern at **LuxDev** — building predictive models and BI dashboards
 - 🛡️ Founder, **Networking & Cybersecurity Lab** at Mama Ngina University
 - 🌍 Passionate about applying tech to real African challenges — agriculture, connectivity, and data literacy
