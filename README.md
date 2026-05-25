@@ -116,9 +116,17 @@ Demonstrates proficiency in database design, window functions (`ROW_NUMBER`, `RA
 
 ### 📊 Activity
 
-![Githinji's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&username=GithinjiVictor&theme=tokyonight&hide_border=true)
+| Metric | Value |
+|--------|-------|
+| 🗂️ Public Repositories | ![](https://img.shields.io/badge/Repos-27-blue?style=flat-square) |
+| 📝 Total Contributions | ![](https://img.shields.io/badge/Contributions-73-brightgreen?style=flat-square) |
+| 👥 Followers | ![](https://img.shields.io/badge/Followers-2-orange?style=flat-square) |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiVictor&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+**Top Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=GithinjiVictor&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
