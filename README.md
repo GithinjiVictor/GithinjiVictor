@@ -115,8 +115,10 @@ Demonstrates proficiency in database design, window functions (`ROW_NUMBER`, `RA
 [![trophy](https://github-profile-trophy.vercel.app/?username=GithinjiVictor&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Activity
-![Githinji's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GithinjiVictor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GithinjiVictor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Githinji's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&username=GithinjiVictor&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GithinjiVictor&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
 
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=GithinjiVictor&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
